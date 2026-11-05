@@ -1,0 +1,58 @@
+{
+  "template_urls": [],
+  "axios_get_paths": [
+    "payment/razorpay/init",
+    "checkTodoList",
+    "vendor/referral-Code-By-Vendor",
+    "ckfinder.options",
+    "index",
+    "insertImage",
+    "imageStyle",
+    "update-cart-qty",
+    "link.allowedProtocols",
+    "zoomPanSelection",
+    "ckbox.defaultUploadWorkspaceId",
+    "user/update",
+    "set-cookie",
+    "link.decorators",
+    "mediaEmbed.previewsInData",
+    "language.content",
+    "Dialog",
+    "home/cms",
+    "customer-check-otp",
+    "cms/update",
+    "ImageCaptionEditing",
+    "toggleImageCaption",
+    "TrackChanges",
+    "content-type",
+    "product-details",
+    "https://api.cartpev2.in/api/auth/update/img/profile",
+    "outdent",
+    "ImageUploadEditing",
+    "cookie_set_uid",
+    "annotations"
+  ],
+  "template_literal_urls": [
+    ",style:{color:\"var(--maincolor)\",fontSize:\"19px\"}}),B.title]}),s.jsx(\"div\",{className:\"setingbox_link pa_l_33\",children:B.permissions.map((R,z)=>s.jsx(\"div\",{className:\"checkbox\",children:s.jsxs(\"label\",{className:\"ss_checkboxx\",style:{display:\"flex\"},children:[s.jsx(\"input\",{type:\"checkbox\",className:\"perm_checkbox\",value:R.name,checked:y.includes(R.id),onChange:()=>j(R.id)}),s.jsx(\"span\",{className:\"pl-1 f_13\",children:R.name.replace(/_/g,\" \")}),s.jsx(\"span\",{className:\"checkmarkx\"})]})},z))})]})},O))})]})})]})},WE=async(r={})=>{try{const e=\"a3fb7a9f4c8e1d0c5b2a6f9e7d4c8b0a1ffb9c411223344556677889900aabbccddeeffe2d\",n=localStorage.getItem(\"token\"),i=await gt({...r,token:n},e),a=await ut.post(\"vendor/details\",i);return await ht(a.data,e)}catch(e){return console.error(\"CATEGORY ERROR:\",e),{status:!1,data:[]}}},$he=async(r={})=>{try{const e=\"a3fb7a9f4c8e1d0c5b2a6f9e7d4c8b0a1ffb9c411223344556677889900aabbccddeeffe2d\",n=localStorage.getItem(\"token\"),i=await gt({...r,token:n},e),a=await ut.post(\"auth/update-profile\",i),c=await ht(a.data,e);return console.log(\"UPDATE RESPONSE:\",c),c}catch(e){return console.error(\"UPDATE ERROR:\",e?.response?.data||e),{success:!1,data:[]}}},Whe=async r=>{try{const e=localStorage.getItem(\"token\"),n=\"a3fb7a9f4c8e1d0c5b2a6f9e7d4c8b0a1ffb9c411223344556677889900aabbccddeeffe2d\",i=await as.post(\"https://api.cartpev2.in/api/auth/update/img/profile\",r,{headers:{Authorization:"
+  ],
+  "relevant_paths": [
+    "/dashboard/category/my_category",
+    "/dashboard/product",
+    "/dashboard/category/category_select",
+    "/dashboard/add-bulk-csv-product",
+    "/dashboard/whole-saler-product",
+    "/dashboard/add-product",
+    "/dashboard/add-bulk-product",
+    "/dashboard/product_sorting",
+    "/product-detail",
+    "/v4/sample_files/bulk_product_upload_format.csv",
+    "/order/store/order/cartpe/admin",
+    "/dashboard/add-product-variant",
+    "/category",
+    "/store_cart.html",
+    "/dashboard/product/sorting"
+  ],
+  "api_paths": [
+    "v4/sample_files/bulk_product_upload_format.csv"
+  ]
+}

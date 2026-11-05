@@ -1,0 +1,89 @@
+{
+  "fetch_results": {
+    "https://tren.cartpe.in/robots.txt": {
+      "status": 200,
+      "saved_as": "robots.txt"
+    },
+    "https://tren.cartpe.in/sitemap.xml": {
+      "status": 200,
+      "saved_as": "sitemap.xml"
+    },
+    "https://tren.cartpe.in/": {
+      "status": 200,
+      "saved_as": "homepage.html"
+    }
+  },
+  "analysis": {
+    "homepage": {
+      "label": "homepage",
+      "json_ld": [],
+      "og": {
+        "og:type": "website",
+        "og:title": "",
+        "og:description": "",
+        "og:image": "",
+        "og:url": ""
+      },
+      "meta_names": {},
+      "page_title": null,
+      "js_spa_signals": [],
+      "selectors": {
+        "product_title": [],
+        "price": [],
+        "original_price": [],
+        "images": [],
+        "add_to_cart": [],
+        "variants": [],
+        "breadcrumb": [],
+        "pagination": []
+      },
+      "total_links": 0,
+      "product_links_sample": [],
+      "listing_links_sample": [],
+      "all_links_sample": [],
+      "nav_links": [],
+      "lazy_load_images": {
+        "data-src count": 0,
+        "data-srcset count": 0,
+        "sample_data_src": null
+      }
+    },
+    "api_probes": {
+      "/products.json": {
+        "status": 200,
+        "content_type": "text/html",
+        "body_preview": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:title\" content=\"\" /"
+      },
+      "/products.json?limit=1": {
+        "status": 200,
+        "content_type": "text/html",
+        "body_preview": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:title\" content=\"\" /"
+      },
+      "/collections.json": {
+        "status": 200,
+        "content_type": "text/html",
+        "body_preview": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:title\" content=\"\" /"
+      },
+      "/collections/all/products.json": {
+        "status": 200,
+        "content_type": "text/html",
+        "body_preview": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:title\" content=\"\" /"
+      },
+      "/api/products": {
+        "status": 404,
+        "content_type": "application/json",
+        "body_preview": null
+      },
+      "/api/v1/products": {
+        "status": 404,
+        "content_type": "application/json",
+        "body_preview": null
+      },
+      "/wp-json/wc/v3/products": {
+        "status": 200,
+        "content_type": "text/html",
+        "body_preview": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:title\" content=\"\" /"
+      }
+    }
+  }
+}

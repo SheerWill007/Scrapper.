@@ -1,0 +1,97 @@
+{
+  "/api/shop/tren/products/": {
+    "status": 404,
+    "is_json": true,
+    "size": 96
+  },
+  "/api/shop/tren/product/": {
+    "status": 404,
+    "is_json": true,
+    "size": 95
+  },
+  "/api/products/": {
+    "status": 404,
+    "is_json": true,
+    "size": 84
+  },
+  "/api/products/?shop=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 84
+  },
+  "/api/shop/products/?slug=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 90
+  },
+  "/api/tren/products/": {
+    "status": 404,
+    "is_json": true,
+    "size": 90
+  },
+  "/v2/shop/tren/products/": {
+    "status": 404,
+    "is_json": true,
+    "size": 72
+  },
+  "/v2/products/?shop=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 62
+  },
+  "/api/shop/tren/categories/": {
+    "status": 404,
+    "is_json": true,
+    "size": 98
+  },
+  "/api/shop/tren/category/": {
+    "status": 404,
+    "is_json": true,
+    "size": 96
+  },
+  "/api/categories/?shop=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 86
+  },
+  "/api/tren/categories/": {
+    "status": 404,
+    "is_json": true,
+    "size": 92
+  },
+  "/v2/shop/tren/categories/": {
+    "status": 404,
+    "is_json": true,
+    "size": 74
+  },
+  "/api/shop/tren/": {
+    "status": 404,
+    "is_json": true,
+    "size": 86
+  },
+  "/api/shop/?slug=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 80
+  },
+  "/api/shops/tren/": {
+    "status": 404,
+    "is_json": true,
+    "size": 87
+  },
+  "/v2/shop/tren/": {
+    "status": 404,
+    "is_json": true,
+    "size": 63
+  },
+  "/api/store/tren/": {
+    "status": 404,
+    "is_json": true,
+    "size": 87
+  },
+  "/api/store/?slug=tren": {
+    "status": 404,
+    "is_json": true,
+    "size": 81
+  }
+}
