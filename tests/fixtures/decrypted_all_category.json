@@ -1,0 +1,400 @@
+{
+  "success": true,
+  "data": {
+    "categories": [
+      {
+        "type": "category",
+        "category_id": 440,
+        "category_name": "Women's Shoes",
+        "slug": "ladies-shoes-footwear-women",
+        "image": "69a05eb0029cd.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 560,
+        "category_name": "Flipflops/Crocs",
+        "slug": "flipflops-footwear",
+        "image": "69a05ea9a756c.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 832,
+        "category_name": "Men’s Shoe",
+        "slug": "men-rsquo-s-shoe-footwear",
+        "image": "69a05ea3164a6.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1017,
+        "category_name": "loafers",
+        "slug": "loafers-footwear-men-footwear",
+        "image": "69a05eb7317a4.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 50,
+        "category_name": "Sunglasses",
+        "slug": "sunglasses-eye-wear-men",
+        "image": "69a05ebfb9a79.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 69,
+        "category_name": "Mens Watch",
+        "slug": "mens-watch",
+        "image": "69a05ec6df92f.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 111,
+        "category_name": "Ladies Sunglasses",
+        "slug": "sunglasses-eye-wear-women",
+        "image": "6abfdfa0c4b40.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 157,
+        "category_name": "Ladies Watch",
+        "slug": "ladies-watch-watches",
+        "image": "69a05ecd45286.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 124,
+        "category_name": "Belts",
+        "slug": "belts",
+        "image": "69a05ed414c59.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 123,
+        "category_name": "Wallet",
+        "slug": "wallet",
+        "image": "6a78346137706.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 456,
+        "category_name": "Wallets and Belts",
+        "slug": "wallets-amp-belts-men-accessories",
+        "image": "69eef4143e2fb.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 120,
+        "category_name": "Hand bags",
+        "slug": "hand-bags",
+        "image": "6abfdfbfa6930.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 158,
+        "category_name": "BAG PACK",
+        "slug": "bag-pack-bags",
+        "image": "69a05efa4e318.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 447,
+        "category_name": "Sunglasses and Frames",
+        "slug": "sunglasses-amp-frames-eye-wear-men",
+        "image": "69a05f0445aae.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 117,
+        "category_name": "Loafers Or Formals",
+        "slug": "loafers",
+        "image": "6abfdfb85cf9d.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1000,
+        "category_name": "Women Wallet",
+        "slug": "women-wallet-women",
+        "image": "69a05fc08225c.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1016,
+        "category_name": "Premium Flip-Flop",
+        "slug": "premium-flip-flop-",
+        "image": "6a78342d1cad1.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 244,
+        "category_name": "Premium Shoes",
+        "slug": "premium-shoes-footwear",
+        "image": "69a05fb8aab6d.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 982,
+        "category_name": "trolly bag",
+        "slug": "trolly-bag--",
+        "image": "69a05fae83174.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 918,
+        "category_name": "Bracelet ",
+        "slug": "bracelet-men-accessories",
+        "image": "69eef4242e31c.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 502,
+        "category_name": "bracellet",
+        "slug": "bracellet-jewellery",
+        "image": "6abfdfb196df2.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 22,
+        "category_name": "Trousers",
+        "slug": "trousers",
+        "image": "6abfdf9c48dc9.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 363,
+        "category_name": "Luxury Watch Collection",
+        "slug": "luxury-watch-collection-watches",
+        "image": "6a7834556a7c4.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 40,
+        "category_name": "Tops",
+        "slug": "tops",
+        "image": "6abfdfc4cc33e.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 41,
+        "category_name": "Women's T-Shirts",
+        "slug": "t-shirts-clothing-women",
+        "image": "6abfdfcb836be.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 42,
+        "category_name": "Women's Shirts",
+        "slug": "shirts-clothing-women",
+        "image": "6a2bc91e2caae.png"
+      },
+      {
+        "type": "category",
+        "category_id": 24,
+        "category_name": "Cargos",
+        "slug": "cargos",
+        "image": "6abfdfacb9a2b.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 57,
+        "category_name": "Belt",
+        "slug": "belt",
+        "image": "5c59943e6a7a8.jpg"
+      },
+      {
+        "type": "category",
+        "category_id": 184,
+        "category_name": "Combo",
+        "slug": "combo-combo-combo-",
+        "image": "6abfdfa56c95f.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 367,
+        "category_name": "Wallet",
+        "slug": "wallet-men-s-accessories-men-s-accessories",
+        "image": "6abfdfa8bc7a4.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 449,
+        "category_name": "Watches For Men",
+        "slug": "watches-for-men-watches",
+        "image": "6a783443baa15.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 140,
+        "category_name": "Cap",
+        "slug": "cap",
+        "image": "69a05f474a4dc.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 11,
+        "category_name": "T-Shirts",
+        "slug": "t-shirts-cloths-top-wear-men",
+        "image": "69a05f0aebeb3.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 12,
+        "category_name": "Shirts",
+        "slug": "shirts-clothes-top-wear-men",
+        "image": "69a05f11725b7.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 15,
+        "category_name": "Jackets",
+        "slug": "jackets",
+        "image": "6a7833e7b4e79.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 84,
+        "category_name": "Hoodies",
+        "slug": "hoodies",
+        "image": "6a7833f446dce.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 20,
+        "category_name": "Jeans",
+        "slug": "jeans",
+        "image": "69a05f2741108.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 21,
+        "category_name": "Track Pants",
+        "slug": "track-pants",
+        "image": "6a7834076ed1f.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 23,
+        "category_name": "Shorts and 3/4ths",
+        "slug": "shorts-amp-3-4ths",
+        "image": "69a05f3205f47.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 38,
+        "category_name": "Sandals/Chappal",
+        "slug": "sandals-chappal",
+        "image": "69a05f36e6355.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 125,
+        "category_name": "Laptop Bags",
+        "slug": "laptop-bags",
+        "image": "69a05f3c0effe.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 126,
+        "category_name": "Travelling Bags",
+        "slug": "travelling-luggage-bags",
+        "image": "69a05f42059f1.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 978,
+        "category_name": "Premium sweatshirts",
+        "slug": "premium-sweatshirts-men",
+        "image": "69eef3fe54024.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 774,
+        "category_name": "Sling Bag ",
+        "slug": "sling-bag-genuine-leather-products",
+        "image": "69a05f4def038.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 838,
+        "category_name": "Perfume For Women",
+        "slug": "perfume-for-women-fragrance",
+        "image": "69a05f57e6f18.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 840,
+        "category_name": "Perfume For Men",
+        "slug": "perfume-1",
+        "image": "69a05f5e8db72.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1010,
+        "category_name": "Premium perfume for men",
+        "slug": "premium-perfume-for-men-perfume-for-men-fragrance",
+        "image": "69a05f6412fe1.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1011,
+        "category_name": "Premium perfume for women",
+        "slug": "premium-perfume-for-women-perfume-for-men-fragrance",
+        "image": "69a05f6e506e9.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 1009,
+        "category_name": "Premium Article",
+        "slug": "premium-article-",
+        "image": "categorydemo.jpg"
+      },
+      {
+        "type": "category",
+        "category_id": 977,
+        "category_name": "Premium Track Suits",
+        "slug": "premium-track-suits-men",
+        "image": "6a783421e4011.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 847,
+        "category_name": "Fragrance Gift Set",
+        "slug": "fragrance-gift-set-perfume",
+        "image": "69a05f88e9619.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 980,
+        "category_name": "Sweatshirts",
+        "slug": "sweatshirts-men-men",
+        "image": "69a05f96376c9.jpeg"
+      },
+      {
+        "type": "category",
+        "category_id": 991,
+        "category_name": "exclusive offer topwear",
+        "slug": "exclusive-offer-topwear",
+        "image": "6a2b9ee3ecf68.png"
+      },
+      {
+        "type": "category",
+        "category_id": 532,
+        "category_name": "Scarf",
+        "slug": "scarf-women",
+        "image": "6a2be015c43d4.png"
+      },
+      {
+        "type": "category",
+        "category_id": 1015,
+        "category_name": "sale",
+        "slug": "sale--",
+        "image": "6a2be22d92c78.png"
+      },
+      {
+        "type": "category",
+        "category_id": 1005,
+        "category_name": "Cord Sets",
+        "slug": "cord-sets1",
+        "image": "6a2b9b9bbc2a3.png"
+      }
+    ],
+    "sizes": []
+  }
+}

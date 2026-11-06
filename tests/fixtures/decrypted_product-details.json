@@ -1,0 +1,10 @@
+{
+  "success": false,
+  "message": "Validation failed",
+  "errors": {
+    "slug": [
+      "The slug field is required."
+    ]
+  },
+  "code": 422
+}
