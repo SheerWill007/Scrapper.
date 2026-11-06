@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 765592919,
+    "pid": "wholesaler105_6aeca24696001",
+    "productName": "Raado crono",
+    "description": "",
+    "slug": null,
+    "siteSlug": "raado-crono-npi765596410-tren",
+    "image": "6aeca246b04b50.jpeg",
+    "gallery": [
+      {
+        "image": "6aeca246b04b50.jpeg"
+      }
+    ],
+    "video": "",
+    "basicPrice": 1100,
+    "oldPrice": 9999,
+    "marginAmount": 0,
+    "categoryId": 69,
+    "vendorId": 0,
+    "vendor_mobile_no": "9726489074",
+    "parentId": 0,
+    "wholesalerId": 105,
+    "flagWholesaler": 0,
+    "pinStatus": 0,
+    "stock": 0,
+    "wpBasicPrice": 2100,
+    "wpOldPrice": 10999,
+    "wpMargin": 0,
+    "wpMarginAmount": 1000,
+    "sizes": [
+      {
+        "sizeId": 0,
+        "sizeName": null,
+        "price": 1100,
+        "oldPrice": 9999,
+        "qty": 0,
+        "variantStatus": 0
+      }
+    ],
+    "qty": 0,
+    "inCart": false,
+    "inWishlist": false,
+    "totalqty": 0,
+    "discount": 81
+  },
+  "message": "Success",
+  "responseTime": 180,
+  "status": true,
+  "total": 1
+}

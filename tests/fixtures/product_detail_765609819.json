@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 765609819,
+    "pid": "wholesaler151_6aeca306e2a73",
+    "productName": "No Return Burbery Premium Box Pack Black Checks Shirt",
+    "description": "",
+    "slug": null,
+    "siteSlug": "no-return-burbery-premium-box-pack-black-checks-shirt-npi765612052-tren",
+    "image": "6aeca3070960b0.png",
+    "gallery": [
+      {
+        "image": "6aeca3070960b0.png"
+      }
+    ],
+    "video": "",
+    "basicPrice": 549,
+    "oldPrice": 99999,
+    "marginAmount": 0,
+    "categoryId": 12,
+    "vendorId": 0,
+    "vendor_mobile_no": "9726489074",
+    "parentId": 0,
+    "wholesalerId": 151,
+    "flagWholesaler": 0,
+    "pinStatus": 0,
+    "stock": 0,
+    "wpBasicPrice": 1549,
+    "wpOldPrice": 100999,
+    "wpMargin": 0,
+    "wpMarginAmount": 1000,
+    "sizes": [
+      {
+        "sizeId": 129,
+        "sizeName": "XL",
+        "price": 549,
+        "oldPrice": 99999,
+        "qty": 0,
+        "variantStatus": 0
+      }
+    ],
+    "qty": 0,
+    "inCart": false,
+    "inWishlist": false,
+    "totalqty": 0,
+    "discount": 99
+  },
+  "message": "Success",
+  "responseTime": 249,
+  "status": true,
+  "total": 1
+}

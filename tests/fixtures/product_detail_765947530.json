@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 765947530,
+    "pid": "wholesaler151_6aecc8c55041e",
+    "productName": "No return D&G premium Box Pack Shirt",
+    "description": "",
+    "slug": null,
+    "siteSlug": "no-return-d-amp-g-premium-box-pack-shirt-npi765948765-tren",
+    "image": "6aecc8c5725330.jpg",
+    "gallery": [
+      {
+        "image": "6aecc8c5725330.jpg"
+      }
+    ],
+    "video": "",
+    "basicPrice": 649,
+    "oldPrice": 9999,
+    "marginAmount": 0,
+    "categoryId": 12,
+    "vendorId": 0,
+    "vendor_mobile_no": "9726489074",
+    "parentId": 0,
+    "wholesalerId": 151,
+    "flagWholesaler": 0,
+    "pinStatus": 0,
+    "stock": 0,
+    "wpBasicPrice": 1649,
+    "wpOldPrice": 10999,
+    "wpMargin": 0,
+    "wpMarginAmount": 1000,
+    "sizes": [
+      {
+        "sizeId": 127,
+        "sizeName": "M",
+        "price": 649,
+        "oldPrice": 9999,
+        "qty": 0,
+        "variantStatus": 0
+      }
+    ],
+    "qty": 0,
+    "inCart": false,
+    "inWishlist": false,
+    "totalqty": 0,
+    "discount": 86
+  },
+  "message": "Success",
+  "responseTime": 83,
+  "status": true,
+  "total": 1
+}
